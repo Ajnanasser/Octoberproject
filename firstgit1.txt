@@ -1,0 +1,8 @@
+git init
+git remote  add  orgin "path"
+git status on branch master
+git add firstgit.txt
+git commit -m "firstcommit"
+git config --global user.mail "mailid"
+git push orgin master
+git pull orgin master
